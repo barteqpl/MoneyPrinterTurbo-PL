@@ -10,8 +10,8 @@ RUN chmod 777 /MoneyPrinterTurbo
 ENV PYTHONPATH="/MoneyPrinterTurbo"
 
 # Install system dependencies with domestic mirrors first for stability
-RUN echo "deb http://mirrors.aliyun.com/debian bullseye main" > /etc/apt/sources.list && \
-    echo "deb http://mirrors.aliyun.com/debian-security bullseye-security main" >> /etc/apt/sources.list && \
+RUN echo "deb http://ftp.pl.debian.org/debian bullseye main" > /etc/apt/sources.list && \
+    echo "deb http://security.debian.org/debian-security bullseye-security main" >> /etc/apt/sources.list && \
     ( \
         for i in 1 2 3; do \
             echo "Attempt $i: Using Aliyun mirror"; \
