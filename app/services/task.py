@@ -92,6 +92,13 @@ def generate_audio(task_id, params, video_script):
             )
         else:
             logger.info("no custom audio file provided, using TTS to generate audio.")
+
+        # Auto-select Polish TTS voice when language is pl-PL and no voice specified
+        voice_name = voice.parse_voice_name(params.voice_name) if params.voice_name else ""
+        if not voice_name and params.video_language == "pl-PL":
+            params.voice_name = "pl-PL-ZofiaNeural-Female"
+            logger.info(f"auto-selected Polish voice: {params.voice_name}")
+
         audio_file = path.join(utils.task_dir(task_id), "audio.mp3")
         sub_maker = voice.tts(
             text=video_script,
