@@ -2,10 +2,10 @@
 <h1 align="center">MoneyPrinterTurbo-PL 💸</h1>
 
 <p align="center">
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/network/members"><img src="https://img.shields.io/github/forks/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/barteqpl/MoneyPrinterTurbo-PL/stargazers"><img src="https://img.shields.io/github/stars/barteqpl/MoneyPrinterTurbo-PL.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/barteqpl/MoneyPrinterTurbo-PL/issues"><img src="https://img.shields.io/github/issues/barteqpl/MoneyPrinterTurbo-PL.svg?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/barteqpl/MoneyPrinterTurbo-PL/network/members"><img src="https://img.shields.io/github/forks/barteqpl/MoneyPrinterTurbo-PL.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/barteqpl/MoneyPrinterTurbo-PL/blob/main/LICENSE"><img src="https://img.shields.io/github/license/barteqpl/MoneyPrinterTurbo-PL.svg?style=for-the-badge" alt="License"></a>
 </p>
 <br>
 <h3>Polski | <a href="README-en.md">English</a> | <a href="README-ar.md">العربية</a></h3>
@@ -109,9 +109,9 @@ Wystarczy podać <b>temat</b> lub <b>słowo kluczowe</b> wideo, aby w pełni aut
 </thead>
 <tbody>
 <tr>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/af2f3b0b-002e-49fe-b161-18ba91c055e8"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
+<td align="center"><video src="https://github.com/barteqpl/MoneyPrinterTurbo-PL/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
+<td align="center"><video src="https://github.com/barteqpl/MoneyPrinterTurbo-PL/assets/4928832/af2f3b0b-002e-49fe-b161-18ba91c055e8"></video></td>
+<td align="center"><video src="https://github.com/barteqpl/MoneyPrinterTurbo-PL/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
 </tr>
 </tbody>
 </table>
@@ -127,8 +127,8 @@ Wystarczy podać <b>temat</b> lub <b>słowo kluczowe</b> wideo, aby w pełni aut
 </thead>
 <tbody>
 <tr>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
+<td align="center"><video src="https://github.com/barteqpl/MoneyPrinterTurbo-PL/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
+<td align="center"><video src="https://github.com/barteqpl/MoneyPrinterTurbo-PL/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
 </tr>
 </tbody>
 </table>
@@ -159,13 +159,13 @@ Wystarczy podać <b>temat</b> lub <b>słowo kluczowe</b> wideo, aby w pełni aut
 
 Uniknij lokalnej konfiguracji środowiska – kliknij poniższy przycisk, aby szybko wypróbować MoneyPrinterTurbo-PL bezpośrednio w Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harry0703/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barteqpl/MoneyPrinterTurbo-PL/blob/main/docs/MoneyPrinterTurbo.ipynb)
 
 ### Pakiet uruchomieniowy jednym kliknięciem dla systemu Windows
 
 Pobierz pakiet uruchomieniowy, rozpakuj go i używaj bezpośrednio (upewnij się, że ścieżka nie zawiera **chińskich znaków**, **znaków specjalnych** ani **spacji**):
 
-- GitHub Release: https://github.com/harry0703/MoneyPrinterTurbo/releases/latest
+- GitHub Release: https://github.com/barteqpl/MoneyPrinterTurbo-PL/releases/latest
 
 Po pobraniu zaleca się najpierw **kliknąć dwukrotnie** plik `update.bat`, aby zaktualizować kod do **najnowszej wersji**, a następnie kliknąć dwukrotnie `start.bat`, aby uruchomić aplikację.
 
@@ -181,7 +181,7 @@ Po uruchomieniu przeglądarka otworzy się automatycznie (jeśli strona jest pus
 #### ① Klonowanie kodu
 
 ```shell
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+git clone https://github.com/barteqpl/MoneyPrinterTurbo-PL.git
 ```
 
 #### ② Modyfikacja pliku konfiguracyjnego (opcjonalnie, zaleca się konfigurację w WebUI po uruchomieniu)
@@ -206,7 +206,7 @@ cd MoneyPrinterTurbo
 docker compose -f docker-compose.release.yml up
 ```
 
-> Domyślnie zaleca się użycie pliku `docker-compose.release.yml`, który pobierze gotowy obraz z GitHub Container Registry: `ghcr.io/harry0703/moneyprinterturbo:latest`.
+> Domyślnie zaleca się użycie pliku `docker-compose.release.yml`, który pobierze gotowy obraz z GitHub Container Registry: `ghcr.io/barteqpl/moneyprinterturbo-pl:latest`.
 > Jeśli chcesz przebudować obraz lokalnie, możesz użyć polecenia `docker compose up`.
 > Uwaga: Przed pierwszym uruchomieniem upewnij się, że w katalogu głównym projektu znajduje się plik `config.toml` (możesz go skopiować z `config.example.toml`).
 
@@ -230,7 +230,7 @@ Otwórz przeglądarkę i przejdź pod adres: http://127.0.0.1:8080/docs lub http
 Zaleca się użycie narzędzia [uv](https://docs.astral.sh/uv/) do zarządzania środowiskiem Python i zależnościami. Domyślnie używany jest Python `3.11`.
 
 ```shell
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+git clone https://github.com/barteqpl/MoneyPrinterTurbo-PL.git
 cd MoneyPrinterTurbo
 uv python install 3.11
 uv sync --frozen
@@ -436,7 +436,7 @@ Rozwiązanie: [Kliknij tutaj, aby dowiedzieć się, jak ręcznie pobrać model z
 
 ## Opinie i sugestie 📢
 
-- Możesz zgłosić [issue](https://github.com/harry0703/MoneyPrinterTurbo/issues) lub utworzyć [pull request](https://github.com/harry0703/MoneyPrinterTurbo/pulls).
+- Możesz zgłosić [issue](https://github.com/barteqpl/MoneyPrinterTurbo-PL/issues) lub utworzyć [pull request](https://github.com/barteqpl/MoneyPrinterTurbo-PL/pulls).
 
 ## Licencja 📝
 
@@ -444,4 +444,4 @@ Kliknij, aby wyświetlić plik [`LICENSE`](LICENSE)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=harry0703/MoneyPrinterTurbo&type=Date)](https://star-history.com/#harry0703/MoneyPrinterTurbo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=barteqpl/MoneyPrinterTurbo-PL&type=Date)](https://star-history.com/#barteqpl/MoneyPrinterTurbo-PL&Date)
